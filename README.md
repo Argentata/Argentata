@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Argentata/Argentata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 ## I'm Learning:
 
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" width="40" height="40"/>
           
           
-          
+<!--          
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
