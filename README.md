@@ -2,7 +2,7 @@
 
 
 
-<h2>## I'm Learning: </h2>
+## I'm Learning:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> 
  
